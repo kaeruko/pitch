@@ -12,7 +12,7 @@
 
 ---
 
-<img src="/meetups/images/disc.jpg" width="100">
+<img src="/meetups/images/disc.jpg" width="300">
 
 おすすめされたプロジェクトのソース
 
