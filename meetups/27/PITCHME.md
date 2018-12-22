@@ -12,7 +12,7 @@
 
 ---
 
-![](/meetups/images/disc.jpg)
+<img src="/meetups/images/disc.jpg" width="100">
 
 おすすめされたプロジェクトのソース
 
