@@ -1,6 +1,7 @@
 ## もくもく2/9成果
 
 <img src="/meetups/images/snow.png" width="100">
+
 @yokina
 
 @size[25px](- プログラミングスクール講師やってます{laravel,rails})
@@ -46,6 +47,8 @@
 ---
 
 @size[25px](- 自分だったら何も考えずにjsonにして突っ込んじゃうところを別のクラスにして管理してるのを見てクソコードしか書けない自分が開発するの怖くなった😰)
+
+@size[25px](プログラミングのセンスって何がどうなのかわからん)
 
 @size[25px](- ActiveRecordのjoins,mergeを覚えた)
 
