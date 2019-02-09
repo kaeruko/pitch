@@ -4,6 +4,7 @@
 
 <img src="/meetups/images/snow.png" width="250">
 
+<span style="font-size: 10px>
 @yokina
 
 - プログラミングスクール講師やってます(laravel,rails)
@@ -11,6 +12,8 @@
 - 最近ジムに通い始めました。
 
 - 今週からスマートロックのrailsプロジェクトに参加。
+
+</span>
 
 ---
 
