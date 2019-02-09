@@ -1,11 +1,11 @@
-<style> body { font-size: 8px } </style>
+<style> right { text-align: left; font-size: 25px } </style>
 
 ## もくもく2/9成果
 
 <img src="/meetups/images/snow.png" width="100">
 @yokina
 
-@size[25px](- プログラミングスクール講師やってます(laravel,rails)
+@css[right](- プログラミングスクール講師やってます(laravel,rails)
 
 @size[25px](- 最近ジムに通い始めました。)
 
@@ -25,15 +25,15 @@
 
 ## tig入れた
 
-以前三木さんが使ってるの見て便利そうだったのでtig入れてみた。
+@size[25px](以前三木さんが使ってるの見て便利そうだったのでtig入れてみた。)
 
-gitのグラフがSourceTreeと違うので戸惑うけど
+@size[25px](gitのグラフがSourceTreeと違うので戸惑うけど)
 
-(tigはmasterブランチの最新が一番上に来るっぽい)
+@size[25px]((tigはmasterブランチの最新が一番上に来るっぽい)
 
-(SourceTreeはローカルに落としたすべてのリポジトリの最新順)
+@size[25px]((SourceTreeはローカルに落としたすべてのリポジトリの最新順)
 
-パスとファイル名のコピーが出来るの便利なのでしばらく並行して使ってみる。
+@size[25px](パスとファイル名のコピーが出来るの便利なのでしばらく並行して使ってみる。)
 
 ---
 
