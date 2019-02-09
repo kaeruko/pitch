@@ -1,7 +1,4 @@
-<style>
-.markdown-body { font-size: 3px; }
-</style>
-
+<style> body { font-size: 8px } </style>
 
 ## もくもく2/9成果
 
