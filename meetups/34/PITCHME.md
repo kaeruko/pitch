@@ -5,12 +5,11 @@
 <img src="/meetups/images/snow.png" width="100">
 @yokina
 
-@size[20px](- プログラミングスクール講師やってます(laravel,rails\) )
+@size[25px](- プログラミングスクール講師やってます(laravel,rails)  )
 
-- 最近ジムに通い始めました。
+@size[25px](- 最近ジムに通い始めました。)
 
-- 今週からスマートロックのrailsプロジェクトに参加。
-)
+@size[25px](- 今週からスマートロックのrailsプロジェクトに参加。)
 
 ---
 
