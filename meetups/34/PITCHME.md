@@ -3,7 +3,7 @@
 ## もくもく2/9成果
 
 <img src="/meetups/images/snow.png" width="100">
-@size[3.5em](aaa)
+@size[8px](aaa)
 
 @size[3.5em](
 
