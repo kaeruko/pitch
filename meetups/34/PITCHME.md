@@ -2,9 +2,8 @@
 
 ## もくもく2/9成果
 
-<img src="/meetups/images/snow.png" width="250">
+<img src="/meetups/images/snow.png" width="100">
 
-<span style="font-size: 10px>
 @yokina
 
 - プログラミングスクール講師やってます(laravel,rails)
@@ -12,8 +11,6 @@
 - 最近ジムに通い始めました。
 
 - 今週からスマートロックのrailsプロジェクトに参加。
-
-</span>
 
 ---
 
