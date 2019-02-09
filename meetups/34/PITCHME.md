@@ -5,7 +5,7 @@
 <img src="/meetups/images/snow.png" width="100">
 @yokina
 
-@size[25px](- プログラミングスクール講師やってます(laravel,rails)  )
+@size[25px](- プログラミングスクール講師やってます(laravel,rails)
 
 @size[25px](- 最近ジムに通い始めました。)
 
@@ -15,11 +15,11 @@
 
 ## 💎RubyMine入れた💎
 
-長年Sublime textだったけどリーダーがRubyMine派だったので入れてみた。
+@size[25px](長年Sublime textだったけどリーダーがRubyMine派だったので入れてみた。)
 
-まだわからないけどクラス検索が便利。
+@size[25px](まだわからないけどクラス検索が便利。)
 
-あとSublime textよりgo to declarationが正確っぽい
+@size[25px](あとSublime textよりgo to declarationが正確っぽい)
 
 ---
 
