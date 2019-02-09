@@ -1,3 +1,8 @@
+<style>
+.markdown-body { font-size: 8px; }
+</style>
+
+
 ## もくもく2/9成果
 
 <img src="/meetups/images/snow.png" width="250">
