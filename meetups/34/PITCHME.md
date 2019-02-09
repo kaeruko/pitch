@@ -59,3 +59,8 @@
 「人が対応したissueの差分を読む」という~~眠い~~気力のいる作業をやれたのは
 
 shinjuku-mokumokuの緊張感ならでは☺️⚡️⚡️
+
+
+---
+
+GITPITCH読みづらい…次からpaper.dropbox使おう
