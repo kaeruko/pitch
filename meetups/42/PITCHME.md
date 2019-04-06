@@ -1,7 +1,5 @@
 ## 4/6 成果
 
-<img src="/meetups/images/snow.png" width="100">
-
 @yokina
 
 @size[25px](- スマートロックの管理画面のAPIを作ってます)
